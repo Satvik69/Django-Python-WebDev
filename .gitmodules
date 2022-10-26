@@ -1,0 +1,3 @@
+[submodule "wordcount-project"]
+	path = wordcount-project
+	url = https://github.com/Satvik69/wordcount-project.git
