@@ -1,3 +1,6 @@
 [submodule "wordcount-project"]
 	path = wordcount-project
 	url = https://github.com/Satvik69/wordcount-project.git
+[submodule "portfolio-project"]
+	path = portfolio-project
+	url = https://github.com/Satvik69/portfolio-project.git
