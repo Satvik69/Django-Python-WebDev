@@ -4,3 +4,6 @@
 [submodule "portfolio-project"]
 	path = portfolio-project
 	url = https://github.com/Satvik69/portfolio-project.git
+[submodule "onlineportfolio-project"]
+	path = onlineportfolio-project
+	url = https://github.com/Satvik69/onlineportfolio-project.git
